@@ -27,3 +27,16 @@ When you're ready to submit this commit to the central repository (from your
 local copy), you can run:
 
     $ git push
+
+
+Team 1 (change me when you have a nicer name)
+---------------------------------------------
+  - name
+
+Team 2 (change me when you have a nicer name)
+---------------------------------------------
+  - name
+
+Team 3 (change me when you have a nicer name)
+---------------------------------------------
+  - name
