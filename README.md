@@ -22,3 +22,8 @@ A text editor should appear, in which you should add a message to your commit.
 This message should describe briefly what the commit is, and why it was made.
 Your commit to this repository is simple and the purpose is known, so a short
 message such as `Add name to bottleboat group` will suffice.
+
+When you're ready to submit this commit to the central repository (from your
+local copy), you can run:
+
+    $ git push
