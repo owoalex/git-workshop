@@ -1,9 +1,9 @@
-bottleboat-groups
-=================
+git-workshop
+============
 
 To get a local copy of this repository (called "cloning" in git terms), run:
 
-    $ git clone https://github.com/abersailbot/bottleboat-groups.git
+    $ git clone https://github.com/abersailbot/git-workshop.git
 
 To make changes, edit this file and add your name in your team's section. You
 then need to make git know about your changes. After you have added your name,
