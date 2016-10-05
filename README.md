@@ -28,6 +28,9 @@ local copy), you can run:
 
     $ git push
 
+If you want to get the latest changes from the repository, run:
+
+    $ git pull
 
 Team 1 (change me when you have a nicer name)
 ---------------------------------------------
