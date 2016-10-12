@@ -36,14 +36,17 @@ If you want to get the latest changes from the repository, run:
 Red bottle-boat Team 
 ---------------------------------------------
   - lnm9
+  - Claudio Coppola
+  - dab14
 
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+  - Owen Williams
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+  - Taylor Brown
+  - Morgan Frankland
 
 Team 4 (change me when you have a nicer name)
 ---------------------------------------------
