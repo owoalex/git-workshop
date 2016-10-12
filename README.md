@@ -46,9 +46,6 @@ Team 3 (change me when you have a nicer name)
 ---------------------------------------------
   - Alice Gammond
   - Owen Williams
-
-Team 3 (change me when you have a nicer name)
----------------------------------------------
   - Joseph Gray
   - Taylor Brown
   - Morgan Frankland
