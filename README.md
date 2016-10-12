@@ -57,5 +57,6 @@ Artificial Tractors
 
 Boaty McBoatface
 ---------------------------------------------
-  - Cpt Claudio Coppola
-  - Aidan Hogden
+  - Admiral Claudio Coppola
+  - Boot Shiner Aidan Hogden
+
