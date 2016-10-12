@@ -35,17 +35,21 @@ If you want to get the latest changes from the repository, run:
 
 Red bottle-boat Team 
 ---------------------------------------------
-  - lnm9
+  - Libni MC-Tavish
   - Daniel Bursztynski
+
 
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
+  - Charlie Robinson
   - Adrianna Szymczak
   - Alice Gammond
   - Owen Williams
 
+
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
+  - Bram Weston
   - Joseph Gray
   - Taylor Brown
   - Morgan Frankland
