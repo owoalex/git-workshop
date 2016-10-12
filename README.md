@@ -33,21 +33,24 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-RED
---------------------------------------------
-  - Claudio Coppola
-  - dab14
+Red bottle-boat Team 
+---------------------------------------------
+  - lnm9
+  - Daniel Bursztynski
 
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
-  - Owen Williams
+  - Adrianna Szymczak
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
   - Bram Weston
+  - Alice Gammond
+  - Owen Williams
+  - Joseph Gray
   - Taylor Brown
   - Morgan Frankland
 
 Team 4 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+  - Claudio Coppola
