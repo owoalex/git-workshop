@@ -33,13 +33,13 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-Red bottle-boat Team 
+Red bottle-boat  
 ---------------------------------------------
   - Libni MC-Tavish
   - Daniel Bursztynski
 
 
-Team 2 (change me when you have a nicer name)
+Yellow bottle-boat
 ---------------------------------------------
   - Charlie Robinson
   - Adrianna Szymczak
