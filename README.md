@@ -33,7 +33,7 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-Red bottle-boat  
+Black Pearl
 ---------------------------------------------
   - Libni MC-Tavish
   - Daniel Bursztynski
