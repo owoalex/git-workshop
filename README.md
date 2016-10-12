@@ -57,5 +57,5 @@ Artificial Tractors
 
 Boaty McBoatface
 ---------------------------------------------
-  - Claudio Coppola
+  - Cpt Claudio Coppola
   - Aidan Hogden
