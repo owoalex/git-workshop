@@ -48,6 +48,7 @@ Team 2 (change me when you have a nicer name)
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
+  - Bram Weston
   - Joseph Gray
   - Taylor Brown
   - Morgan Frankland
