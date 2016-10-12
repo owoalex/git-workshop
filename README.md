@@ -40,7 +40,6 @@ RED
 Red bottle-boat Team 
 ---------------------------------------------
   - lnm9
-  - Claudio Coppola
   - dab14
 
 Team 2 (change me when you have a nicer name)
@@ -59,4 +58,4 @@ Team 3 (change me when you have a nicer name)
 
 Team 4 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+  - Claudio Coppola
