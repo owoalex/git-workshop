@@ -40,9 +40,11 @@ RED
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
   - Alice Gammond
+  - Owen Williams
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
+  - Taylor Brown
   - Morgan Frankland
 
 Team 4 (change me when you have a nicer name)
