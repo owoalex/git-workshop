@@ -44,7 +44,7 @@ Team 2 (change me when you have a nicer name)
   - Alice Gammond
   - Owen Williams
 
-Team 3 (change me when you have a nicer name)
+Artificial Tractors
 ---------------------------------------------
   - Bram Weston
   - Joseph Gray
