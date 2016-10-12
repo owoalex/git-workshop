@@ -39,7 +39,7 @@ Team 1 (change me when you have a nicer name)
 
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
-  - name
+  - Adrianna Szymczak
 
 Team 3 (change me when you have a nicer name)
 ---------------------------------------------
