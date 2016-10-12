@@ -33,10 +33,11 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-Red bottle-boat Team 
+Black Pearl Team 
 ---------------------------------------------
-  - Libni MC-Tavish
+  - Cpt Libni MC-Tavish
   - Daniel Bursztynski
+  - Jack Sparrow
 
 
 Team 2 (change me when you have a nicer name)
