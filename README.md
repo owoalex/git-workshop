@@ -34,7 +34,8 @@ If you want to get the latest changes from the repository, run:
     $ git pull
 
 RED
----------------------------------------------
+--------------------------------------------
+  - Claudio Coppola
   - dab14
 
 Team 2 (change me when you have a nicer name)
