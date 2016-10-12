@@ -35,7 +35,7 @@ If you want to get the latest changes from the repository, run:
 
 Red bottle-boat Team 
 ---------------------------------------------
-  - lnm9
+  - Libni MC-Tavish
   - dab14
 
 Team 2 (change me when you have a nicer name)
