@@ -33,10 +33,12 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-Red bottle-boat  
+ 
+Black Pearl
 ---------------------------------------------
-  - Libni MC-Tavish
+  - Cpt Libni MC-Tavish
   - Daniel Bursztynski
+  - Jack Sparrow
 
 
 Fumbling Desert Crabs
@@ -46,8 +48,7 @@ Fumbling Desert Crabs
   - Alice Gammond
   - Owen Williams
 
-
-Blue bottle-boat
+Artificial Tractors
 ---------------------------------------------
   - Bram Weston
   - Joseph Gray
