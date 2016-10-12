@@ -33,9 +33,9 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-Team 1 (change me when you have a nicer name)
+RED
 ---------------------------------------------
-  - name
+  - dab14
 
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
