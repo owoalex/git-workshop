@@ -40,6 +40,10 @@ Red bottle-boat Team
 
 Team 2 (change me when you have a nicer name)
 ---------------------------------------------
+  - Adrianna Szymczak
+
+Team 3 (change me when you have a nicer name)
+---------------------------------------------
   - Alice Gammond
   - Owen Williams
 
