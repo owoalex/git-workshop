@@ -33,14 +33,15 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-Black Pearl Team 
+ 
+Black Pearl
 ---------------------------------------------
   - Cpt Libni MC-Tavish
   - Daniel Bursztynski
   - Jack Sparrow
 
 
-Team 2 (change me when you have a nicer name)
+Yellow bottle-boat
 ---------------------------------------------
   - Charlie Robinson
   - Adrianna Szymczak
@@ -48,7 +49,7 @@ Team 2 (change me when you have a nicer name)
   - Owen Williams
 
 
-Team 3 (change me when you have a nicer name)
+Blue bottle-boat
 ---------------------------------------------
   - Bram Weston
   - Joseph Gray
