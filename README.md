@@ -33,10 +33,6 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-<<<<<<< HEAD
-RED
----------------------------------------------
-=======
 Red bottle-boat Team 
 ---------------------------------------------
   - lnm9
