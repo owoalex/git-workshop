@@ -58,5 +58,5 @@ Artificial Tractors
 Boaty McBoatface
 ---------------------------------------------
   - Admiral Claudio Coppola
-  - Rear-Admiral Aidan Hogden (test)
+  - Rear-Admiral Aidan Hogden
   - Luke Lunn
