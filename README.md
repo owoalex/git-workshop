@@ -33,33 +33,11 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
- 
-Black Pearl
----------------------------------------------
-  - Cpt Libni MC-Tavish
-  - Daniel Bursztynski
-  - Jack Sparrow
 
 
-Fumbling Desert Crabs
----------------------------------------------
-  - Charlie Robinson
-  - Adrianna Szymczak
-  - Alice Gammond
-  - Owen Williams
-
-Artificial Tractors
----------------------------------------------
-  - Bram Weston
-  - Joseph Gray
-  - Taylor Brown
-  - Morgan Frankland
-
-Boaty McBoatface
----------------------------------------------
-  - Admiral Claudio Coppola
-  - Rear-Admiral Aidan Hogden
-  - Luke Lunn
 New Guys
--------------------------------------
-Preben
+--------------------------------------------
+- Michael Male
+- Brandon Raines
+- Joshua Hinchliffe
+- Preben
