@@ -37,3 +37,4 @@ New Guys
 --------------------------------------------
 - Michael Male
 - Brandon Raines
+- Joshua Hinchliffe
