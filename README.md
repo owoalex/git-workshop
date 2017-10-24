@@ -33,8 +33,7 @@ If you want to get the latest changes from the repository, run:
 
     $ git pull
 
-
-new guys
-------------------------------------------------
-
+New Guys
+--------------------------------------------
+- Michael Male
 - Brandon Raines
